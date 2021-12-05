@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(to bottom, #1ca761 0, #aab923 100%);
+}
+
+.wrapper {
+    border-style: none;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20%;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 1px;
+    margin-left: 1px;
+}
